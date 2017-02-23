@@ -16,3 +16,6 @@ pre.blocks text.sb-literal-string, pre.blocks text.sb-literal-number-dropdown, p
     user-select: auto;
     cursor: text;
 }
+* {
+    font-family: Verdana, Geneva, sans-serif;
+}
